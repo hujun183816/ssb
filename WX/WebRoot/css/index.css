@@ -1,0 +1,10 @@
+  	
+  	.btn{width:30%;border:#dfe0e5 5px solid;height:8%;background:white;margin-left:15px;margin-top:40px;margin-right:15px;font-size:40px;
+                border-radius:20px;font-family:'方正细园';  
+  	}
+  	img{width:80%;margin-bottom:20px}
+  	.zanshi{margin-left:6% ;text-align:center;}
+  	.sm{font-size:40px;color:red;}
+  	.boxshadow{
+  		box-shadow:-10px 0 10px gray;
+  	}
